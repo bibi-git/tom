@@ -1,0 +1,12 @@
+[ 2016-05-18T15:22:56+08:00 ] ::1 /tom/Install
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Install
+
+[ 2016-05-18T15:23:59+08:00 ] ::1 /tom/Install/install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Install
+
